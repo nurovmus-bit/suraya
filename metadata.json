@@ -1,0 +1,6 @@
+{
+  "name": "Suraya Brand",
+  "description": "Минималистичный интернет-магазин одежды собственного производства в Бишкеке",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
